@@ -1,2 +1,1 @@
-# parisPb
- Fallout of Lead over Paris from the 2019 Notre-Dame Cathedral Fire 
+# Replication Code for "Fallout of Lead over Paris from the 2019 Notre-Dame Cathedral Fire"
