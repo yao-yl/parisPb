@@ -1,5 +1,9 @@
 # Replication Code for "Fallout of Lead over Paris from the 2019 Notre-Dame Cathedral Fire"
 
+## Preprint:
+[online preprint](https://www.essoar.org/doi/abs/10.1002/essoar.10503270.1)
+
+
 ## Data:
 ``Soil2.csv``: the location and values fo the collected soil samples. 
 
